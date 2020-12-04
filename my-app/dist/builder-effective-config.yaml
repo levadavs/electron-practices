@@ -1,0 +1,15 @@
+directories:
+  output: dist
+  buildResources: build
+appId: my-app
+win:
+  target:
+    - nsis
+  requestedExecutionLevel: requireAdministrator
+nsis:
+  menuCategory: false
+  uninstallDisplayName: CPU Monitor
+  license: license.txt
+  oneClick: false
+  allowToChangeInstallationDirectory: true
+electronVersion: 11.0.3
