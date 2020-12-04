@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: CPU-Monitor-Setup-1.0.0.exe
+    sha512: NVJONMid3bdbKBt4pAyPqJieJ9tZD/2FJRapLM+91W6R11H9wsSRj0AL7Pjh8Q8ixTd+gN5HKAQCPEtka70mwQ==
+    size: 267346105
+path: CPU-Monitor-Setup-1.0.0.exe
+sha512: NVJONMid3bdbKBt4pAyPqJieJ9tZD/2FJRapLM+91W6R11H9wsSRj0AL7Pjh8Q8ixTd+gN5HKAQCPEtka70mwQ==
+releaseDate: '2020-12-03T22:54:23.404Z'

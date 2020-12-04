@@ -1,0 +1,4 @@
+owner: levadavs
+repo: electron-practice
+provider: github
+updaterCacheDirName: my-app-updater
